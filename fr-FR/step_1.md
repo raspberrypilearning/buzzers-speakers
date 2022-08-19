@@ -1,30 +1,30 @@
-## Buzzers and speakers
+## Buzzers et haut-parleurs
 
-Sound is just a movement in the air. Anything that causes the air to move can make a sound.
+Le son n'est qu'un déplacement dans l'air. Tout ce qui fait déplacer l'air peut produire un son.
 
-- Mechanical devices, usually work by striking two bits of metal together. A bell, for instance, will vibrate when it is hit, and cause the air around it to move.
-- Electromechnical devices,  usually work by using electricity to move a coil of wire, that then causes a diaphragm to move very quickly and generate sound by moving the air around it.
-- Piezoelectric devices, use the fact that some materials change size when a voltage is applied to them, and rapidly changing the voltage causes them to change size really quickly and move the air around it.
+- Les dispositifs mécaniques fonctionnent généralement en frappant deux morceaux de métal ensemble. Une cloche, par exemple, vibrera lorsqu'elle sera frappée et fera déplacer l'air qui l'entoure.
+- Les appareils électromécaniques fonctionnent généralement en utilisant l'électricité pour déplacer une bobine de fil, ce qui provoque ensuite le déplacement très rapide d'un diaphragme et génère un son en déplaçant l'air autour de lui.
+- Les dispositifs piézoélectriques utilisent le fait que certains matériaux changent de taille lorsqu'une tension leur est appliquée, et un changement rapide de tension les fait changer de taille très rapidement et déplace l'air autour d'eux.
 
-When a material moves very quickly, it produces higher pitched sounds. When a material moves by a large amount, it produces louder sounds.
+Lorsqu'un matériau se déplace très rapidement, il produit des sons plus aigus. Lorsqu'un matériau bouge beaucoup, il produit des sons plus forts.
 
-### Speakers and headphones
+### Haut-parleurs et écouteurs
 
-Speakers and headphones are electromechanical devices, and include a range of devices from the huge speakers you might find at a concert to the headphones you might wear in your ears.
+Les haut-parleurs et les écouteurs sont des appareils électromécaniques et comprennent une gamme d'appareils allant des énormes haut-parleurs que tu pourrais trouver lors d'un concert aux écouteurs que tu pourrais porter sur tes oreilles.
 
-To make a speaker work, you need to keep changing the voltage across the speaker. The faster you change the voltage (frequency), the higher pitched the sound will be. The greater the voltage (amplitude), the louder the sound will be.
+Pour faire fonctionner un haut-parleur, tu dois continuer à changer la tension à travers le haut-parleur. Plus tu changes la tension (fréquence) rapidement, plus le son sera aigu. Plus la tension (amplitude) est élevée, plus le son sera fort.
 
-Speakers and headphones can be connected using the headphone jack.
+Les haut-parleurs et les écouteurs peuvent être connectés à l'aide de la prise casque.
 
 <a title="an3k, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Klinkenstecker_5-polig.jpg"><img width="512" alt="Klinkenstecker 5-polig" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Klinkenstecker_5-polig.jpg/512px-Klinkenstecker_5-polig.jpg"></a>
 
-If you are using a speaker you need to tell it what frequency to vibrate at, to create the tone you want
+Si tu utilises un haut-parleur, tu dois lui dire à quelle fréquence vibrer, pour créer le son que tu veux
 ### Buzzers
 
-Buzzers, are normally, piezoelectric devices. A normal buzzer is called a **passive buzzer**. Like a speaker, the frequency of the change in voltage and the size of the voltage will change the pitch and volume.
+Les buzzers sont normalement des dispositifs piézoélectriques. Un buzzer normal est appelé **buzzer passif**. Comme un haut-parleur, la fréquence du changement de tension et le niveau de la tension modifieront le ton et le volume.
 
-If you are using a passive buzzer you need to tell it what frequency to vibrate at, to create the tone you want.
+Si tu utilises un buzzer passif, tu dois lui dire à quelle fréquence vibrer, pour créer la tonalité que tu veux.
 
-![image of two active and two passive buzzers](images/buzzers.jpg)
+![image de deux buzzers actifs et de deux buzzers passifs](images/buzzers.jpg)
 
-**Active buzzers** have additional components inside them so that they always use the same frequency. If you are using an active buzzer, you can only turn them on or off, and you can't change the tone. The passive buzzers are shown on the right hand side of the image above.
+**Les buzzers actifs** contiennent des composants supplémentaires afin de toujours utiliser la même fréquence. Si tu utilises un buzzer actif, tu peux uniquement l'activer ou le désactiver, et tu ne peux pas modifier la tonalité. Les buzzers passifs sont affichés sur le côté droit de l'image ci-dessus.
