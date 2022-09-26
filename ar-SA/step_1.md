@@ -1,30 +1,30 @@
-## Buzzers and speakers
+## الصفارات ومكبرات الصوت
 
-Sound is just a movement in the air. Anything that causes the air to move can make a sound.
+الصوت هو مجرد حركة في الهواء. يمكن لأي شيء يتسبب في تحرك الهواء أن يُصدر صوتًا.
 
-- Mechanical devices, usually work by striking two bits of metal together. A bell, for instance, will vibrate when it is hit, and cause the air around it to move.
-- Electromechnical devices,  usually work by using electricity to move a coil of wire, that then causes a diaphragm to move very quickly and generate sound by moving the air around it.
-- Piezoelectric devices, use the fact that some materials change size when a voltage is applied to them, and rapidly changing the voltage causes them to change size really quickly and move the air around it.
+- تعمل الأجهزة الميكانيكية عادةً بضرب قطعتين من المعدن معًا. الجرس ، على سبيل المثال ، سوف يهتز عندما يضرب ، ويتسبب في تحرك الهواء المحيط به.
+- عادة ما تعمل الأجهزة الإلكترونية التقنية باستخدام الكهرباء لتحريك مِلَفّ من الأسلاك ، مما يؤدي بعد ذلك إلى تحرك الغشاء بسرعة كبيرة وتوليد الصوت عن طريق تحريك الهواء حوله.
+- الأجهزة الكهربائية الانضغاطية ، استخدم حقيقة أن بعض المواد تغير الحجم عند تطبيق جهد كهربائي (التردد) عليها ، والتغيير السريع للجهد الكهربائي (التردد) يؤدي إلى تغيير حجمها بسرعة كبيرة وتحريك الهواء حولها.
 
-When a material moves very quickly, it produces higher pitched sounds. When a material moves by a large amount, it produces louder sounds.
+عندما تتحرك المواد بسرعة كبيرة ، فإنها تنتج أصواتًا أعلى حدة. عندما تتحرك المادة بكمية كبيرة ، فإنها تنتج أصواتًا أعلى.
 
-### Speakers and headphones
+### مكبرات الصوت وسماعات الرأس
 
-Speakers and headphones are electromechanical devices, and include a range of devices from the huge speakers you might find at a concert to the headphones you might wear in your ears.
+مكبرات الصوت وسماعات الرأس هي أجهزة كهروميكانيكية ، وتشمل مجموعة من الأجهزة من مكبرات الصوت الضخمة التي قد تجدها في حفلة موسيقية إلى سماعات الرأس التي قد ترتديها في أذنيك.
 
-To make a speaker work, you need to keep changing the voltage across the speaker. The faster you change the voltage (frequency), the higher pitched the sound will be. The greater the voltage (amplitude), the louder the sound will be.
+لجعل مكبر الصوت يعمل ، يجب أن تستمر في تغيير الجهد الكهربائي عبر السماعة. كلما قمت بتغيير الجهد الكهربائي (التردد) بشكل أسرع ، كلما كان الصوت أعلى. كلما زاد الجهد الكهربائي (السعة) ، كان الصوت أعلى.
 
-Speakers and headphones can be connected using the headphone jack.
+يمكن توصيل مكبرات الصوت وسماعات الرأس باستخدام مقبس سماعة الرأس.
 
 <a title="an3k, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Klinkenstecker_5-polig.jpg"><img width="512" alt="Klinkenstecker 5-polig" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Klinkenstecker_5-polig.jpg/512px-Klinkenstecker_5-polig.jpg"></a>
 
-If you are using a speaker you need to tell it what frequency to vibrate at, to create the tone you want
-### Buzzers
+إذا كنت تستخدم مكبر صوت ، فأنت بحاجة إلى إخباره بالتردد الذي يهتز به ، لإنشاء النغمة التي تريدها
+### الصافرات
 
-Buzzers, are normally, piezoelectric devices. A normal buzzer is called a **passive buzzer**. Like a speaker, the frequency of the change in voltage and the size of the voltage will change the pitch and volume.
+الصافرات ، عادة ما تكون أجهزة كهرضغطية. تسمى الصافرة العادية بـ **الصافرة غير النشطة**. مثل مكبر الصوت ، فإن تردد في التغيير في الجهد الكهربائي وحجم الجهد الكهربائي سيغيران درجة الصوت وحجمه.
 
-If you are using a passive buzzer you need to tell it what frequency to vibrate at, to create the tone you want.
+إذا كنت تستخدم الصافرة (الصافرة غير النشطة) ، فأنت بحاجة إلى إخباره بالتردد الذي يهتز به ، لتأليف النغمة التي تريدها.
 
-![image of two active and two passive buzzers](images/buzzers.jpg)
+![صورة لأثنين من الصافرات النشطة وأثنين من الصافرات غير النشطة](images/buzzers.jpg)
 
-**Active buzzers** have additional components inside them so that they always use the same frequency. If you are using an active buzzer, you can only turn them on or off, and you can't change the tone. The passive buzzers are shown on the right hand side of the image above.
+**الصفارات النشطة** تمتلك مكونات إضافية بداخلها بحيث تستخدم نفس التردد دائمًا. إذا كنت تستخدم جرسًا نشطًا ، فيمكنك تشغيلها أو إيقاف تشغيلها فقط ، ولا يمكنك تغيير النغمة. يتم عرض الصافرات غير النشطة على الجانب الأيمن من الصورة أعلاه.
